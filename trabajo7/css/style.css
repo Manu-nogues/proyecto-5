@@ -1,0 +1,21 @@
+table{
+    border: 1px solid red;
+}
+th{
+    border: 1px solid brown;
+    background-color: rgb(16, 10, 10);
+
+}
+td{
+    border: 1px  solid brown;
+background-color: rgb(158, 161, 160);
+}
+th{
+    border-color:brown;
+    background-color: rgb(178, 240, 240);
+}
+td{border-color:brown;
+}
+.fila{
+    background-color: blueviolet;
+}
