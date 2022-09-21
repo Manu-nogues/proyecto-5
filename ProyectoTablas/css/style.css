@@ -1,0 +1,17 @@
+table{
+    border: 5px solid rgb(9, 165, 72);
+}
+th{
+    border: 2px solid rgb(30, 33, 210);
+    background-color: rgb(3, 74, 13);
+}
+td{
+    border: 2px solid rgb(30, 174, 210);
+    background-color: rgb(171, 254, 226);
+}
+#fila{
+    width: 6vw;
+}
+#fila{
+    width: 26vw;
+}
