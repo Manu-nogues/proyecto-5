@@ -1,0 +1,12 @@
+table{
+    background-color: aqua;
+    border: solid rgb(11, 15, 21);
+}
+
+td{
+    border: solid cornflowerblue;
+}
+
+th{
+    border: solid cornflowerblue;
+}
